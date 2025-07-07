@@ -99,7 +99,7 @@ uvicorn main:app --reload --host 0.0.0.0 --port 8000
 
 ```bash
 # Clone repository dan masuk ke direktori
-git clone <repository-url>
+git clone https://github.com/topfreak/DeepRetina_BE.git
 cd backend
 
 # Copy environment file dan sesuaikan
